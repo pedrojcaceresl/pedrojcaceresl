@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">A passionate developer from Paraguay</h3>
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **JavaScript and Angular**
 
 - 📫 How to reach me **pedrojcaceresl@gmail.com**
 
