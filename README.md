@@ -34,7 +34,7 @@ I am a Sofware Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :telescope: I’m working as a Sofware Developer and contributing to frontend and backend for building web applications.
 
-- :zap: In my free time, I like to read tech tech books, solve problems on AlgoExpert and do Udemy courses.
+- :zap: In my free time, I like to read tech books, solve problems on AlgoExpert and do Udemy courses.
 
 - :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Caceres-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-c%C3%A1ceres-2a3693138/)
 
@@ -42,7 +42,7 @@ I am a Sofware Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" title="Ionic" alt="Ionic" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
