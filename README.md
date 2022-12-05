@@ -34,7 +34,7 @@ I am a Sofware Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :telescope: I’m working as a Sofware Developer and contributing to frontend and backend for building web applications.
 
-- :zap: In my free time, I like to read tech books, solve problems on AlgoExpert and do Udemy courses.
+- :zap: In my free time, I like to read tech books and do Udemy courses.
 
 - :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Caceres-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-c%C3%A1ceres-2a3693138/)
 
