@@ -69,5 +69,8 @@ I am a Sofware Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojcaceresl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+---
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrojcaceresl&theme=juicyfresh" alt="pedrojcaceresl" /></a> </p>
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrojcaceresl&show_icons=true&locale=en&theme=vision-friendly-dark" alt="pedrojcaceresl" /></p>
